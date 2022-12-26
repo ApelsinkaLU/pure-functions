@@ -1,0 +1,29 @@
+{
+  "name": "pure-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApelsinkaLU/pure-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApelsinkaLU/pure-functions/issues"
+  },
+  "homepage": "https://github.com/ApelsinkaLU/pure-functions#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "core-js": "^3.27.0"
+  }
+}
